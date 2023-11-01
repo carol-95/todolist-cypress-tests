@@ -1,0 +1,15 @@
+{
+  "name": "todolist_e2e",
+  "version": "1.0.0",
+  "description": "a test project for a todo list app",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Maria Carolina",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.4.0"
+  }
+}
